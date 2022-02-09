@@ -2,9 +2,9 @@
 - 👀 I’m an aspiring Data Enthusiast and I aim to bring out more from these resources to the fullest.
 - 🌱 I’m currently learning as a Data Analyst and Machine Learning Engineer for 2 years during the course of work at my current and previous organizations.
 - 💞️ I’m looking to collaborate on State of the Art Machine Learning and Data Science Projects that potentially hold the power to solve the real world problems. 
-- 📫 How to reach me :
-Email : siddhikapg7857@gmail.com
-LinkedIn : https://www.linkedin.com/in/siddhika-gajare-6a2866145/
+- 📫 How to reach me : <br>
+Email : siddhikapg7857@gmail.com <br>
+LinkedIn : https://www.linkedin.com/in/siddhika-gajare-6a2866145/ <br>
 GitHub : https://github.com/SiddhikaGajare/
 
 <!---
