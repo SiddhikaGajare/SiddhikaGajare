@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SiddhikaGajare
-- 👀 I’m an aspiring Data Science and Machine Learning Enthusiast aiming to bring out more from the data as a resource to the fullest.
+- 👀 I’m a Data Science and Machine Learning Enthusiast aiming to bring out more from the data as a resource to the fullest.
 - 🌱 I’m currently working as a Data Analyst for 2 years.
 - 💞️ I’m looking to collaborate on State of the Art Machine Learning and Data Science Techniques and Projects that potentially hold the power to solve the real world problems. 
 - 📫 How to reach me : <br>
